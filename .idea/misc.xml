@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/main/Login/app/src/main/res/drawable/a.xml" value="0.1395" />
+        <entry key="..\:/Android/main/Login/app/src/main/res/drawable/aa.xml" value="0.1395" />
+        <entry key="..\:/Android/main/Login/app/src/main/res/drawable/b.xml" value="0.1395" />
+        <entry key="..\:/Android/main/Login/app/src/main/res/drawable/background.xml" value="0.1395" />
+        <entry key="..\:/Android/main/Login/app/src/main/res/drawable/bg.xml" value="0.1395" />
+        <entry key="..\:/Android/main/Login/app/src/main/res/drawable/bg_btn.xml" value="0.1395" />
+        <entry key="..\:/Android/main/Login/app/src/main/res/drawable/bg_btn_down.xml" value="0.1395" />
+        <entry key="..\:/Android/main/Login/app/src/main/res/drawable/bg_btn_up.xml" value="0.1395" />
+        <entry key="..\:/Android/main/Login/app/src/main/res/drawable/bg_down.xml" value="0.1395" />
+        <entry key="..\:/Android/main/Login/app/src/main/res/drawable/bg_up.xml" value="0.1395" />
+        <entry key="..\:/Android/main/Login/app/src/main/res/layout/activity_change.xml" value="0.22395833333333334" />
+        <entry key="..\:/Android/main/Login/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Android/main/Login/app/src/main/res/layout/activity_main.xml" value="0.20625" />
+        <entry key="..\:/Android/main/Login/app/src/main/res/layout/activity_register.xml" value="0.22395833333333334" />
+        <entry key="..\:/Android/main/test/app/src/main/res/drawable/bg.xml" value="0.25" />
+        <entry key="..\:/Android/main/test/app/src/main/res/drawable/bg_btn.xml" value="0.20925925925925926" />
+        <entry key="..\:/Android/main/test/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Android/main/test/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Android/main/test/app/src/main/res/layout/activity_register.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
